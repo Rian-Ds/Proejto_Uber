@@ -1,0 +1,29 @@
+driver_id,vehicle_type,driver_ratings
+8,Auto,0
+14,Auto,3
+6,Auto,4
+3,Auto,5
+13,Bike,0
+26,Bike,3
+5,Bike,4
+21,Bike,5
+1,eBike,0
+20,eBike,3
+17,eBike,4
+27,eBike,5
+15,"Go Mini",0
+23,"Go Mini",3
+7,"Go Mini",4
+9,"Go Mini",5
+2,"Go Sedan",0
+25,"Go Sedan",3
+10,"Go Sedan",4
+22,"Go Sedan",5
+12,"Premier Sedan",0
+19,"Premier Sedan",3
+16,"Premier Sedan",4
+4,"Premier Sedan",5
+18,"Uber XL",0
+28,"Uber XL",3
+11,"Uber XL",4
+24,"Uber XL",5
